@@ -6,7 +6,8 @@ accountCity = "Jaipur"
 accountEmail = "hc@gmail.com"
 accountPassword = "345"
 accountCity = "Agra"
+let accountState;
 console.log(accountId);
-console.table([accountId,accountEmail,accountPassword,accountCity])
+console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
 
  
