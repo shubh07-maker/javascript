@@ -15,7 +15,28 @@ let booleanisLoggedIn = Boolean(isLogggedIn)
 //"shubh"->true
 let somenumber = 33
 let typestring  = String(somenumber)
-console.log(typestring)
-console.log(typeof typestring)
+// console.log(typestring)
+// console.log(typeof typestring)
+
+//****************************************OPERATIONS****************************
+let value = 3
+let negvalue = -value
+//console.log(negvalue)
+// console.log(1+"2");
+// console.log("1"+2);
+// console.log(1+2+"2");
+// console.log("1"+2+3);
+// console.log(+true);
+// console.log(+"");
+
+
+
+
+
+
+
+
+
+
 
 
